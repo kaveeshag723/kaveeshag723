@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaveeshag723
 - 👀 I’m interested in full-stack developing 
-- 🌱 I’m currently learning Java, Javascript,node js, and react
+- 🌱 I’m currently learning Java,python, Javascript,node js, and react
 - 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me kgunathilake1999@gmail.com
 
