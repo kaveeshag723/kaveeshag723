@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaveeshag723
+- 👋 Hi, I’m kaveeshag
 - 👀 I’m interested in full-stack developing 
 - 🌱 I’m currently learning Java,python, Javascript,node js, and react
 - 💞️ I’m looking to collaborate on Devops
