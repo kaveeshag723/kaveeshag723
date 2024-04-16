@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### :bar_chart: My Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kaveesha723&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/kaveeshag723&layout=compact&langs_count=10)
