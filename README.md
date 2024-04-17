@@ -18,10 +18,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand">
 
 
-### :memo: GitHub Statues
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand">
-
 ### :chart_with_upwards_trend: My GitHub History
 
 ![Kaveesha's GitHub status](https://github-readme-stats.vercel.app/api?username=kaveeshag723&show_icons=true&count_private=true)
